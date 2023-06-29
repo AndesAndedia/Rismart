@@ -1,0 +1,15 @@
+Data Penjualan
+Kode Barang : 1001
+Nama Barang : bebek
+Harga Barang : 90000
+Jumlah Barang : 2
+Jumlah harga : 180000
+PPN : 18000
+Total Harga : 198000
+Kode Barang : 1002
+Nama Barang : minyak
+Harga Barang : 30000
+Jumlah Barang : 1
+Jumlah harga : 30000
+PPN : 3000
+Total Harga : 33000
